@@ -1,2 +1,5 @@
 # ignores python viritual enviriment folder
 /pywpm/envpywpm
+
+# ignore mac file
+.DS_Store
